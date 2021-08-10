@@ -8,3 +8,5 @@ tqdm
 icecream
 statsmodels
 plotnine
+scipy
+researchpy
