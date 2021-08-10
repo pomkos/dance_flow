@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+glob
+dynbike_functions
+tqdm
+icecream
+statsmodels
+plotnine
